@@ -1,0 +1,20 @@
+{
+  "name": "0x00-es6_basic",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  
+  "scripts": {
+    "type": "module",
+    "dev": "node",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "eslint": "^9.19.0",
+    "jest": "^29.7.0"
+  }
+}
