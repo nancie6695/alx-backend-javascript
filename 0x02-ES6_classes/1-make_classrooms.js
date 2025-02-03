@@ -7,3 +7,4 @@ const initializeRooms = () => {
 };
 
 export default initializeRooms;
+
